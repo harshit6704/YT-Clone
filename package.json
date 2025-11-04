@@ -1,0 +1,23 @@
+{
+  "name": "ytapp",
+  "version": "1.0.0",
+  "description": "YT Clone app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Javascript",
+    "Backend"
+  ],
+  "author": "Harshit Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2"
+  }
+}
